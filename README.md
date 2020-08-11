@@ -9,9 +9,8 @@
   
 - :books: I'll graduate on Computer Science on 2021.
 - I had internships in mostly all T.I. areas: **ADVPL Language, fixing hardwares, DevOps, Requirements Analysis, Web Development (Ruby on Rails) and QA Software.**
-- :new: I'm currently focusing my studies on test automation. :robot: 
+- I'm currently focusing my studies on test automation. :robot: 
 - 💬 Talk to me about skincare :massage:, memes, tomb rider games and Mcfly.
-- ⚡ **Fun fact:** I really love to play PS4 games :video_game:, but I'm really bad at it :grin:
 
 ### Languages and tools:
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)

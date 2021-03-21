@@ -9,7 +9,7 @@
   
 - :books: I'll graduate on Computer Science on 2021.
 - I had internships in mostly all T.I. areas: **ADVPL Language, fixing hardwares, DevOps, Requirements Analysis, Web Development (Ruby on Rails) and QA Software.**
-- I'm currently focusing my studies on test automation. :robot: 
+- I'm currently focusing my Cypress studies. :robot: 
 - 💬 Talk to me about skincare :massage:, memes, tomb rider games and Mcfly.
 
 ### Languages and tools:

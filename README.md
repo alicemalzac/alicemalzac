@@ -4,7 +4,9 @@
 ### About me:
 
   I'm QA Engineer passionate about testing and sharing the quality word through the community.
-  I like to find bugs :bug:, build and plan testcases and to learn new concepts of testing 🚀 
+ 
+ 
+### Facts about me: 
   
 - I'll graduate on Computer Science on 2022 :books:
 - I had internships in mostly all IT areas: **ADVPL Language, fixing hardwares, DevOps, Requirements Analysis, Web Development (Ruby on Rails) and QA Software.**

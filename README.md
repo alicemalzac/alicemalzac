@@ -1,20 +1,22 @@
 ## Hi there <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 [![Linkedin Badge](https://img.shields.io/badge/-alicemalzac-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicemalzac/)](https://www.linkedin.com/in/alicemalzac/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@alicemalzac)
 
 ### About me:
 
-  I'm QA Engineer, passionate about testing and sharing the quality word through the community.
+  I'm QA Engineer since 2019, passionate about testing and sharing the quality word through the community.
  
 ### Facts about me: 
   
 - I`ll be graduating on Computer Science on 2022 :books:
-- Currently focusing my studies on **Cypress** and **French** 🇫🇷
+- Working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white) since 2020
+- Currently focusing my studies on **Cypress**, **Appium* and **French** 🇫🇷
 
 ### Languages and tools:
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)

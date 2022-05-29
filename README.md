@@ -9,7 +9,7 @@
 ### Facts about me: 
   
 - I`ll be graduating on Computer Science on 2022 :books:
-- Working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white) since 2020
+- Working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white) since 2020
 - Currently focusing my studies on **Cypress**, **Appium* and **French** 🇫🇷
 
 ### Languages and tools:

@@ -10,7 +10,9 @@
   
 - I`ll be graduating on Computer Science on 2022 :books:
 - Working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white) since 2020
-- Currently focusing my studies on **Cypress**, **Appium* and **French** 🇫🇷
+- Focusing myself in 
+     - QA automation with **Cypress** and **Appium**
+     - Load Testing with **Locust** and **K6**
 
 ### Languages and tools:
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)

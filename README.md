@@ -8,11 +8,12 @@
  
 ### Facts about me: 
   
-- I`ll be graduating on Computer Science on 2022 :books:
-- Currently working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white) since 2020
-- Focusing myself in 
+- I'll be graduating on Computer Science on 2022.  :books:
+- Currently working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white) since 2020. 💼
+- And, in my free time I'm focusing my studies on: 
      - QA automation with **Cypress** and **Appium**
      - Load Testing with **Locust** and **K6** + **Prometheus** and **Grafana**
+     - **JavaScript** 
 
 ### Languages and tools:
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -20,7 +21,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 

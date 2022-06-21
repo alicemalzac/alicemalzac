@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there! 🥰
 [![Linkedin Badge](https://img.shields.io/badge/-alicemalzac-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicemalzac/)](https://www.linkedin.com/in/alicemalzac/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@alicemalzac)
 

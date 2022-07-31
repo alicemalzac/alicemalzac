@@ -8,8 +8,8 @@
  
 ### Facts about me: 
   
-- I'll be graduating on Computer Science on 2022.  :books:
-- Currently working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white) since 2020. 💼
+- Bachelor's degree in Computer Science  :books:
+- Currently working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white) as Software QA Engineer. 💼
 - And, in my free time I'm focusing my studies on: 
      - QA automation with **Cypress** and **Appium**
      - Load Testing with **Locust** and **K6** + **Prometheus** and **Grafana**

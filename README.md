@@ -12,7 +12,7 @@
 - Currently working on ![PicPay](https://img.shields.io/badge/picpay-21C25E?style=flat&logo=picpay&logoColor=white) as Software QA Engineer. 💼
 - And, in my free time I'm focusing my studies on: 
      - QA automation with **Cypress** and **Appium**
-     - Load Testing with **Locust** and **K6** + **Prometheus** and **Grafana**
+     - Load Testing with **JMeter**, **Locust** and **K6** + **Prometheus** and **Grafana**
      - **JavaScript** 
 
 ### Languages and tools:

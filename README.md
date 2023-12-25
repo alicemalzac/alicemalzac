@@ -11,9 +11,10 @@
 - Bachelor's degree in Computer Science  :books:
 - Currently working as Senior Software QA Engineer. 💼
 - And, in my free time I'm focusing my studies on: 
-     - QA automation with **Cypress** and **Appium**
-     - Load Testing with **JMeter**, **Locust**, **K6** and **Grafana**
-     - **JavaScript** 
+     - QA automation with **Cypress**, **Selenium** and **Appium**
+     - Load Testing with **Locust**, **K6** and **Grafana**
+     - **JavaScript**
+     - **C#**
 
 ### Languages and tools:
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)
